@@ -3,13 +3,13 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Con el diagrama de actividades se termina la descripción de las tres técnicas usadas para la especificación y el análisis de requisitos, como se pudo analizar cada una de las técnicas nos brinda características para lograr representar gráficamente y de una forma clara, los requisitos que un usuario necesita poder cumplir satisfactoriamente con las solicitudes de los clientes y usuarios, por otro lado se pueden usar todas las técnicas en una especificación y análisis de requisitos si se ve la necesidad.
+    p En el ámbito de la producción y manejo de huevos de gallina, la inspección, selección, inventarios y almacenamiento, son procesos críticos para garantizar la calidad y seguridad del producto final. Estos subtemas abordan aspectos fundamentales que van desde la gestión financiera hasta la conservación de la frescura y la prevención de contaminación. A través de este mapa conceptual, se explorarán temas que van desde la planificación presupuestaria, pasando por la limpieza y desinfección, hasta los protocolos de inspección y calidad tanto en el proceso de embalaje como en el almacenamiento de los huevos. Cada subtema juega un papel crucial en la producción eficiente y en la entrega de huevos frescos y seguros al consumidor.
     p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
 
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="Síntesis: Inspección, selección, inventarios y almacenamiento de huevo de gallina. Comprende  Temas como: presupuesto, limpieza y desinfección, bandejas, empaques y embalaje, protocolos de inspección y almacenamiento.")
       .col-auto
         a.anexo.mb-4(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
           .anexo__icono
