@@ -9,7 +9,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="Síntesis: Inspección, selección, inventarios y almacenamiento de huevo de gallina. Comprende  Temas como: presupuesto, limpieza y desinfección, bandejas, empaques y embalaje, protocolos de inspección y almacenamiento.")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="Síntesis: Inspección, proceso de selección, inventarios y almacenamiento del huevo de gallina. Comprende  Temas como: presupuesto, limpieza y desinfección, bandejas, empaques y embalaje, protocolos de inspección y almacenamiento.")
       .col-auto
         a.anexo.mb-4(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
           .anexo__icono

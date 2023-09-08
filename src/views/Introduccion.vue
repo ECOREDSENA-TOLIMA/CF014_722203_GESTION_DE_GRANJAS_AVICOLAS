@@ -17,8 +17,8 @@
 
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/" title="Inspección, selección, inventarios y almacenamiento de huevo de gallina" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Inspección, selección, inventarios y almacenamiento de huevo de gallina
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/I5ZcVHy200o" title="Inspección, proceso de selección, inventarios y almacenamiento del huevo de gallina" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video: Inspección, proceso de selección, inventarios y almacenamiento del huevo de gallina
     
 </template>
 

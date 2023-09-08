@@ -1,2 +1,2 @@
 module.exports =
-  'Inspección, selección, inventarios y almacenamiento de huevo de gallina'
+  'Inspección, proceso de selección, inventarios y almacenamiento del huevo de gallina'

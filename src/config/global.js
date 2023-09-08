@@ -1,7 +1,7 @@
 export default {
   global: {
     componenteFormativo:
-      'Inspección, selección, inventarios y almacenamiento de huevo de gallina',
+      'Inspección, proceso de selección, inventarios y almacenamiento del huevo de gallina',
     descripcionCurso:
       'Al verificar las diferentes actividades que se realizan para garantizar el proceso de calidad del huevo se asegura inocuidad del producto hasta la mesa del consumidor, por lo que los procesos de inspección cobran relevancia, con el fin de comprobar la calidad del producto final.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
