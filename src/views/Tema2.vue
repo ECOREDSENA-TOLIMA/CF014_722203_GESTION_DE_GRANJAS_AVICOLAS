@@ -16,7 +16,7 @@
       .col-md-4.col-12
         img(src='@/assets/curso/temas/tema2/tema2-1.png' alt='')
 
-    p.mb-3(data-aos="fade-right") Un buen programa de limpieza desinfección y desinsectación al igual que las medidas de bioseguridad son muy necesarias en la producción y se pagan por sí solos.
+    p.mb-3(data-aos="fade-right") Un buen programa de limpieza, desinfección y desinsectación, al igual que las medidas de bioseguridad, son muy necesarias en la producción y se pagan por sí solos.
     p.mb-5(data-aos="fade-right") Es así como en las áreas de la clasificación del huevo comercial es esencial la limpieza y desinfección dentro del sistema productivo de una empresa avícola, ya que permanentemente se enfrentan a múltiples peligros que pueden afectar la salud del consumidor. Los peligros que se enfrentan a diario las áreas de clasificación son:
 
     .row.justify-content-center.mb-5
@@ -34,7 +34,7 @@
           .tarjeta.color-acento-botones
             .p-4.pt-5
               h4.text-center Químicos
-              p puede darse una contaminación de tipo químico en los alimentos, procedente de los residuos de productos de limpieza y desinfección, por un uso inadecuado de los mismos o por una deficiente dilución.
+              p Puede darse una contaminación de tipo químico en los alimentos, procedente de los residuos de productos de limpieza y desinfección, por un uso inadecuado de los mismos o por una deficiente dilución.
     
     p.mb-3(data-aos="fade-right") Las personas que trabajan en la manipulación de alimentos son consideradas como una de las principales fuentes contaminantes y en especial aquellas que trabajan en granjas avícolas, en procesos de sanitización, alistamiento, recepción de aves, cría, levante, producción, clasificación y despacho de huevo, esto es porque sus actividades son fundamentales para asegurar la inocuidad de los productos.
     p.mb-5(data-aos="fade-right") A continuación, se presentan los aspectos de limpieza y desinfección que se debe tener presente al momento de realizar actividades relacionadas con la clasificación del huevo o cualquier manipulación de alimentos.
@@ -42,6 +42,8 @@
     TabsA.color-acento-botones.mb-5
       .tarjeta.tarjeta--azul.p-4(titulo="1. Lavado de manos y uñas")
         .row.justify-content-center 
+          .col-12 
+            p #[b Lavado de manos y uñas]
           .col-lg-2.col-md-3.col-8 
             img(src='@/assets/curso/temas/tema2/tema2-4.svg' alt='')
           .col-lg-10.col-md-9.col-12
@@ -51,10 +53,12 @@
             p #[b 1.] Humedecer brazos y manos con agua corriente a una temperatura de más o menos 38 °C o en su defecto la que se pueda tolerar. 
             p #[b 2.] Aplicar jabón suficiente y restregar hasta formar una buena cantidad de espuma. 
             p #[b 3.] Frotar brazos y manos de acuerdo a lo sugerido en las técnicas de lavado de manos, limpiando entre los dedos y debajo de las uñas, este procedimiento debe durar entre 10 y 15 segundos. 
-            p #[b 4.] Enjuagar brazos y manos con abundante agua asegurándose de retirar todo el jabón y la suciedad. 
+            p #[b 4.] Enjuagar brazos y manos con abundante agua, asegurándose de retirar todo el jabón y la suciedad. 
             p #[b 5.] Secar los brazos y manos con una toalla de papel o un secador de aire caliente.
       .tarjeta.tarjeta--azul.p-4(titulo="2. Zona de lavado de manos")
         .row.justify-content-center 
+          .col-12 
+            p #[b Zona de lavado de manos]
           .col-lg-2.col-md-3.col-8.col-12.mb-3 
             img(src='@/assets/curso/temas/tema2/tema2-5.svg' alt='')
           .col-lg-10.col-md-9.col-12
@@ -165,13 +169,13 @@
             .col-12
               figure
                 img(src='@/assets/curso/temas/tema2/tema2-11.svg', alt='')
-          p.text-center Antes del lavado, se recomienda mojar las superficies de los elementos de aseo y las superficies planas en donde reposa la suciedad para humedecer esos espacios es fundamental contar con un detergente o jabón adecuado según la suciedad o tipo de superficie para cuidar las películas de material. Luego, se procede a realizar un enjuague con abundante agua, que puede aplicar a presión utilizando una manguera, con el objetivo de eliminar cualquier residuo de jabón.
+          p.text-center Antes de realizar el lavado, es recomendable humedecer las superficies de los elementos de limpieza y las áreas planas donde se acumula la suciedad. Para lograrlo, es fundamental utilizar un detergente o jabón adecuado, teniendo en cuenta el tipo de suciedad y la superficie, con el fin de preservar la integridad de los materiales. 
 
     .row.justify-content-center.align-items-center.mb-5.tarjeta.color-acento-botones.p-4(data-aos="fade-down") 
       .col-md-4.col-12
         img(src='@/assets/curso/temas/tema2/tema2-12.svg' alt='')
       .col-md-8.col-12
-          p El agua a presión, por lo general, funciona bien en el momento de limpieza aplicando en el remojo y en la finalización para facilitar la labor.
+          p El agua a presión suele ser efectiva tanto en la fase de remojo como al finalizar la limpieza, facilitando la labor.
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-down") 
       .col-md-8.col-12
@@ -308,66 +312,66 @@
               tr
                 th.text-center(style="width:20%") Planteamiento
                 td.p-2 
-                  ul.lista-ul
+                  ol.lista-ol
                     li 
-                      i.lista-ul__vineta
+                      span.text-bold 1.
                       | Zonas y superficies a limpiar, y objetivo requerido en cada caso.
                     li 
-                      i.lista-ul__vineta
+                      span.text-bold 2.
                       | Momento y frecuencia de la limpieza (según su riesgo para los huevos).
                     li 
-                      i.lista-ul__vineta
+                      span.text-bold 3.
                       | Responsables de las tareas de limpieza y desinfección, y formación específica sobre estas.
                     li 
-                      i.lista-ul__vineta
+                      span.text-bold 4.
                       | Registro de las tareas realizadas.
                     li 
-                      i.lista-ul__vineta
+                      span.text-bold 5.
                       | Detergente y/o desinfectante a emplear, indicando concentraciones, tiempos de actuación y modo de aplicación. Las fichas de seguridad de estos tienen que estar a disposición del personal.
                     li 
-                      i.lista-ul__vineta
+                      span.text-bold 6.
                       | Equipos y útiles de limpieza, equipos de protección, etc.
             tbody.text-small
               tr
                 th.text-center Fases del proceso de limpieza y desinfección
                 td.p-2 
-                  ul.lista-ul
+                  ol.lista-ol
                     li 
-                      i.lista-ul__vineta
+                      span.text-bold 1.
                       | Eliminación de restos groseros (cáscaras, huevo, etc.).
                     li 
-                      i.lista-ul__vineta
+                      span.text-bold 2.
                       | Eliminación de la suciedad mediante la aplicación de un detergente.
                     li 
-                      i.lista-ul__vineta
+                      span.text-bold 3.
                       | Aclarado con agua potable.
                     li 
-                      i.lista-ul__vineta
+                      span.text-bold 4.
                       | En su caso, aplicación de un desinfectante.
                     li 
-                      i.lista-ul__vineta
+                      span.text-bold 5.
                       | Aclarado con agua potable.
                     li 
-                      i.lista-ul__vineta
+                      span.text-bold 6.
                       | Secado.
               tr
                 th.text-center Verificación
                 td.p-2 
-                  ul.lista-ul
+                  ol.lista-ol
                     li 
-                      i.lista-ul__vineta
+                      span.text-bold 1.
                       | El objetivo de la verificación es comprobar si el plan de limpieza se ha realizado y ha sido eficaz para el objetivo previsto.
                     li 
-                      i.lista-ul__vineta
+                      span.text-bold 2.
                       | #[b Frecuencia:] establecida por la empresa en función de los resultados obtenidos.
                     li 
-                      i.lista-ul__vineta
+                      span.text-bold 3.
                       | Registrar la verificación junto a las tareas de limpieza y desinfección realizadas.
                     li 
-                      i.lista-ul__vineta
+                      span.text-bold 4.
                       | El responsable de realizar la verificación debe ser una persona distinta de la que realiza las tareas de limpieza.
                     li 
-                      i.lista-ul__vineta
+                      span.text-bold 5.
                       | #[b Tipos de comprobación de la eficacia de la limpieza y desinfección:]
                   p #[b a) Comprobación visual:] comprobar de forma visual si las zonas revisadas están limpias y aclaradas.
                   p #[b b) Control analítico:] la empresa, como apoyo de la comprobación visual, puede establecer un plan analítico de superficies para verificar que se cumplen los objetivos del plan de limpieza.

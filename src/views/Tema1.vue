@@ -10,7 +10,7 @@
     .row.mb-4(data-aos="fade-down")
       .col-12
         .cajon.color-acento-contenido.p-4
-          p.mb-0 En el área de clasificación de las granjas avícolas, diariamente se tienen establecidas y programadas una serie de actividades para cumplir los criterios de selección del huevo, previo al inicio, durante y después del proceso, ya que con esto se asegura la inocuidad del producto. Por lo cual, el desarrollo de estas actividades, está manifiestas en:
+          p.mb-0 En el área de clasificación de las granjas avícolas, diariamente se tienen establecidas y programadas una serie de actividades para cumplir los criterios de selección del huevo, previo al inicio, durante y después del proceso, ya que con esto se asegura la inocuidad del producto. Por lo cual, el desarrollo de estas actividades, están manifiestas en:
 
     .row.justify-content-center.mb-5
       .col-sm-6.col-lg-3.mb-4.mb-lg-2.d-flex.align-items-stretch(data-aos="fade-down")
@@ -83,7 +83,7 @@
                   .mb-0 #[b Martes]  
                 th 
                   .mb-0 #[b 3] 
-                  .mb-0 #[b Miercoles]  
+                  .mb-0 #[b Miércoles]  
                 th 
                   .mb-0 #[b 4] 
                   .mb-0 #[b Jueves]  
@@ -92,7 +92,7 @@
                   .mb-0 #[b Viernes]  
                 th 
                   .mb-0 #[b 6] 
-                  .mb-0 #[b Sabado]  
+                  .mb-0 #[b Sábado]  
                 th 
                   .mb-0 #[b 7] 
                   .mb-0 #[b Domingo]  
@@ -169,7 +169,7 @@
                 td 
                 td
 
-    p.mb-5(data-aos="fade-right") Las tablas de registro y cronogramas pueden variar según la necesidad de la clasificadora, sin embargo, para la realización de las todas estas actividades operacionales y manejo de los equipos, se debe realizar un presupuesto económico rentable, donde se muestre la eficiencia que busca la granja en el proceso de selección de huevo.
+    p.mb-5(data-aos="fade-right") Las tablas de registro y cronogramas pueden variar según la necesidad de la clasificadora, sin embargo, para la realización de todas estas actividades operacionales y manejo de los equipos, se debe realizar un presupuesto económico rentable, donde se muestre la eficiencia que busca la granja en el proceso de selección de huevo.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down") 
       .col-md-4.col-lg-5.col-12
@@ -192,8 +192,8 @@
       .col-md-4.col-lg-5.col-12
         img(src='@/assets/curso/temas/tema1/tema1-10.png' alt='')
 
-    p.mb-3(data-aos="fade-right") Toda esta planificación inicia desde la compra de los equipos requeridos para realizar las actividades clave en la clasificación de los huevos, las cuales puedes sen automáticas industriales o manuales, siempre garantizando la seguridad en el manejo del huevo, por lo que se debe verificar el cumplimiento de labor por hora y desgaste de la máquina utilizadas, la adecuación de las áreas para su manejo respectivo y con buenas condiciones de Iluminación y ventilación.
-    p.mb-5(data-aos="fade-right") El recurso humano es clave en cada uno de los procesos, especialmente en el cumplimiento de las labores, la limpieza y desinfección, evaluando los productos a utilizar y eficacia de acción en el proceso. Por tal razón, se debe ser minucioso con los objetivos y metas que se traza el productor para generar un presupuesto con respuesta positiva a la eficiencia de que se realiza a diario y no generar incrementos inoficiosos que se conviertan en gastos por falta de planeación.
+    p.mb-3(data-aos="fade-right") Toda esta planificación inicia desde la compra de los equipos requeridos para realizar las actividades clave en la clasificación de los huevos, las cuales puedes ser automáticas, industriales o manuales, siempre garantizando la seguridad en el manejo del huevo, por lo que se debe verificar el cumplimiento de labor por hora y desgaste de la máquina utilizada, la adecuación de las áreas para su manejo respectivo y con buenas condiciones de Iluminación y ventilación.
+    p.mb-5(data-aos="fade-right") El recurso humano es clave en cada uno de los procesos, especialmente en el cumplimiento de las labores, la limpieza y desinfección, evaluando los productos a utilizar y eficacia de acción en el proceso. Por esta razón, es crucial que el productor sea minucioso al establecer sus objetivos y metas, con el fin de crear un presupuesto que responda de manera positiva a la eficiencia de las actividades diarias y evite generar gastos innecesarios debido a la falta de planificación.
 
 
 
