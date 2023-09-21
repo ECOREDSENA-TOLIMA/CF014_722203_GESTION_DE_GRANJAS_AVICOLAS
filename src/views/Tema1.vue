@@ -192,7 +192,7 @@
       .col-md-4.col-lg-5.col-12
         img(src='@/assets/curso/temas/tema1/tema1-10.png' alt='')
 
-    p.mb-3(data-aos="fade-right") Toda esta planificación inicia desde la compra de los equipos requeridos para realizar las actividades clave en la clasificación de los huevos, las cuales puedes ser automáticas, industriales o manuales, siempre garantizando la seguridad en el manejo del huevo, por lo que se debe verificar el cumplimiento de labor por hora y desgaste de la máquina utilizada, la adecuación de las áreas para su manejo respectivo y con buenas condiciones de Iluminación y ventilación.
+    p.mb-3(data-aos="fade-right") Toda esta planificación inicia desde la compra de los equipos requeridos para realizar las actividades clave en la clasificación de los huevos, las cuales pueden ser automáticas, industriales o manuales, siempre garantizando la seguridad en el manejo del huevo, por lo que se debe verificar el cumplimiento de labor por hora y desgaste de la máquina utilizada, la adecuación de las áreas para su manejo respectivo y con buenas condiciones de Iluminación y ventilación.
     p.mb-5(data-aos="fade-right") El recurso humano es clave en cada uno de los procesos, especialmente en el cumplimiento de las labores, la limpieza y desinfección, evaluando los productos a utilizar y eficacia de acción en el proceso. Por esta razón, es crucial que el productor sea minucioso al establecer sus objetivos y metas, con el fin de crear un presupuesto que responda de manera positiva a la eficiencia de las actividades diarias y evite generar gastos innecesarios debido a la falta de planificación.
 
 

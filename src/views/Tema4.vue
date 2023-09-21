@@ -27,14 +27,14 @@
             h4 Embalaje
             p Son todos los materiales, procedimientos y métodos que sirven para acondicionar, presentar, manipular, almacenar, conservar y transportar una mercancía. 
 
-    p.mb-4(data-aos="fade-right") Los huevos deben cumplir con la normatividad, legislación y reglamentos aplicables para su comercialización y exportación/importación en los cuales se definen los criterios de calidad, peso, frescura, envasado y etiquetado. 
+    p.mb-4(data-aos="fade-right") Los huevos deben cumplir con la normatividad, legislación y reglamentos aplicables para su comercialización y exportación/importación, en los cuales se definen los criterios de calidad, peso, frescura, envasado y etiquetado. 
 
 
     .row.justify-content-center.align-items-center.mb-5.tarjeta.color-acento-botones.p-4(data-aos="fade-down") 
       .col-md-4.col-12
         img(src='@/assets/curso/temas/tema4/tema4-1.png' alt='')
       .col-md-8.col-12
-          p.mb-0 Una vez que el huevo ha sido seleccionado y clasificado, se empaca, en embalajes nuevos y resistentes a golpes, estos deben estar secos, limpios y en buen estado. Normalmente están fabricados con materiales que protegen a los huevos de olores extraños y de posibles alteraciones de la calidad (pulpa moldeada, cartón o polietileno).
+          p.mb-0 Una vez que el huevo ha sido seleccionado y clasificado, se empaca, en embalajes nuevos y resistentes a golpes, estos deben estar secos, limpios y en buen estado. Normalmente, están fabricados con materiales que protegen a los huevos de olores extraños y de posibles alteraciones de la calidad (pulpa moldeada, cartón o polietileno).
 
     p.mb-4(data-aos="fade-right") Es así como se puede determinar qué tipo de empaque y embalaje de acuerdo con su destino final de comercialización, siendo las siguientes las dos opciones más usadas:
 

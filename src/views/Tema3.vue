@@ -79,7 +79,7 @@
         img(src='@/assets/curso/temas/tema3/tema3-5.png' alt='')
       .col-md-8.col-12
         .cajon.color-acento-botones.p-4 
-          p Estas medidas se toman debido a que la reutilización de los panales puede representar un gran riesgo en la bioseguridad de las granjas y también en la salud del consumidor final ya que, en las bandejas usadas, previamente pudieron existir huevos contaminados con bacterias como la #[em salmonella] y claramente serían un factor de transmisión de enfermedades. 
+          p Estas medidas se toman debido a que la reutilización de los panales puede representar un gran riesgo en la bioseguridad de las granjas y también en la salud del consumidor final, ya que en las bandejas usadas, previamente pudieron existir huevos contaminados con bacterias como la #[em salmonella] y claramente serían un factor de transmisión de enfermedades. 
 
     p.mb-3(data-aos="fade-right") Teniendo en cuenta la importancia de esta medida, el incumplimiento de esta norma genera sanciones y multas previstas en la Ley 9 de 1979.
     p.mb-5(data-aos="fade-right") Partiendo de la información anterior, es importante realizar el correcto descarte y disposición final de las bandejas o panales recolectores siguiendo estas recomendaciones:     

@@ -220,6 +220,10 @@ export default {
         'conjunto de elementos que permiten proteger los envases primarios y los empaques de las influencias externas y lograr un mantenimiento y almacenamiento adecuados.',
     },
     {
+      termino: 'Compost',
+      significado: 'resultado del proceso de compostaje.',
+    },
+    {
       termino: 'Empaque',
       significado:
         'recipiente que contiene huevos para su entrega, que los cubre totalmente.',
@@ -252,7 +256,7 @@ export default {
     {
       termino: 'Huevo sucio',
       significado:
-        'huevo que presenta material adherido a la cáscara (sangre, excremento de aves y/o restos de huevo.',
+        'huevo que presenta material adherido a la cáscara (sangre, excremento de aves y/o restos de huevo).',
     },
   ],
   referencias: [

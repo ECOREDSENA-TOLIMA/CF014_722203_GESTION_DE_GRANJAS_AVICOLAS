@@ -254,6 +254,7 @@
       .col-12.col-lg-11(data-aos="fade-right")
         .tabla-b.color-acento-contenido
           table(style="min-width:auto")
+            caption Nota. Tomada de Mata-Haro et al. (2013)
             thead
               tr.cabecera-a.text-center
                 th Tipo de desinfectante 
